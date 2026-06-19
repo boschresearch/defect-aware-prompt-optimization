@@ -1,4 +1,6 @@
 # DAPO: Defect-aware Prompt Optimization for Multi-type Anomaly Detection and Segmentation
+## News
+DAPO has been accepted by ECCV 2026 🎉.
 
 ## Table of Contents
 - [DAPO: Defect-aware Prompt Optimization for Multi-type Anomaly Detection and Segmentation](#dapo-defect-aware-prompt-optimization-for-multi-type-anomaly-detection-and-segmentation)
