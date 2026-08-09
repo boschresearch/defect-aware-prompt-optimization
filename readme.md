@@ -1,4 +1,13 @@
 # DAPO: Defect-aware Prompt Optimization for Multi-type Anomaly Detection and Segmentation
+
+[![arXiv Badge](https://img.shields.io/badge/arXiv-2310.14414-b31b1b.svg)](https://arxiv.org/abs/2512.09446)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=boschresearch.defect-aware-prompt-optimization)
+[![Stars Badge](https://img.shields.io/github/stars/boschresearch/defect-aware-prompt-optimization)](https://github.com/boschresearch/defect-aware-prompt-optimization/stargazers)
+[![Forks Badge](https://img.shields.io/github/forks/boschresearch/defect-aware-prompt-optimization)](https://github.com/boschresearch/defect-aware-prompt-optimization/network/members)
+[![Pull Requests Badge](https://img.shields.io/github/issues-pr/boschresearch/defect-aware-prompt-optimization)](https://github.com/boschresearch/defect-aware-prompt-optimization/pulls)
+[![Issues Badge](https://img.shields.io/github/issues/boschresearch/defect-aware-prompt-optimization)](https://github.com/boschresearch/defect-aware-prompt-optimization/issues)
+[![License Badge](https://img.shields.io/github/license/boschresearch/defect-aware-prompt-optimization)](https://github.com/boschresearch/defect-aware-prompt-optimization/blob/main/LICENSE)
+
 ## News
 - 19/06/2026: DAPO has been accepted by ECCV 2026 🎉.
 
